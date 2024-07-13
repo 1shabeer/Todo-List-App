@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "checked": false,
+      "item": "coding practice"
+    },
+    {
+      "id": 2,
+      "checked": false,
+      "item": "Learning java"
+    },
+    {
+      "id": 3,
+      "checked": false,
+      "item": "speaking English"
+    },
+    {
+      "id": 4,
+      "checked": false,
+      "item": "Learning Good thinks"
+    }
+  ]
+}
